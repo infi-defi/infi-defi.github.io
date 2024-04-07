@@ -7,7 +7,7 @@ tags: [writing]
 render_with_liquid: false
 ---
 
-# New website, new me 
+## New website, new me 🥳
 Ello, ello, Άλλαξα την σελίδα ώστε να είναι πιο συμμαζεμένη και γενικά πιο όμορφη, έχει και νέα features όπως comments, dark/light mode και άλλα. Εύχομαι να σας αρέσει, ίσως μια μέρα βάλω και ένα newsletter άλλα μέχρι τότε νομίζω κάλα είμαστε, να περιμένετε περισσότερα posts εδώ πέρα. Για τους μαθηματικούς ανάμεσα μας ο synthels έκανε revamp την [σελίδα του](https://synthels.github.io) αρα πηγεντε και πειτε ενα γεια 👋
 
 ## Smaller general updates:
