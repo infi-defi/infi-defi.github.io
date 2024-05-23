@@ -7,16 +7,17 @@ order: 5
 Ό,τι hardware/software χρησιμοποιώ αυτή την στιγμή.
 
 ## Neofetch:
-- OS: Linux Mint
-- DE: GNOME 42.9
-- WM: Mutter
-- WM Theme: MaterialYou
-- Theme: Greybird-dark [GTK2/3]
-- Icons: Mint-Y-Teal [GTK2/3]
-- Terminal: gnome-terminal
+- OS: Kubuntu 24.04 LTS x86_64 
+- Kernel: 6.8.0-31-generic 
+- Shell: bash 5.2.21 
+- DE: Plasma 5.27.11 
+- WM: KWin 
+- Theme: [Plasma], Breeze [GTK2/3] 
+- Icons: [Plasma], breeze-dark [GTK2/3] 
+- Terminal: konsole 
 - CPU: AMD Ryzen 5 2600
-- GPU: NVIDIA GeForce GTX 1660 SUPER
-- Memory: 16gb
+- GPU: NVIDIA GeForce GTX 1660 SUPER 
+- Memory: 16Gb
 
 ## Applications
 
