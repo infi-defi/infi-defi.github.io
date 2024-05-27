@@ -12,7 +12,7 @@ Here I'll post a plethora of intresting stuff such as scripts for upcoming video
 
 ### Links:
 
-- I run a [youtube](https://www.youtube.com/@Infdv)   channel where I upload game reviews about games that peak my interest (I also stream there).
+- I run a [youtube](https://www.youtube.com/@Infdv)   channel where I upload game reviews about games that pique my interest (I also stream there).
 - I also have a [second channel](https://www.youtube.com/@infi-defi) for more casual content.
 - I upload my projects and the code for this website on [github](https://github.com/infi-defi).
 - Also here is [twitter (or X...)](https://twitter.com/_Infdev) I don't really use it but oh well.
