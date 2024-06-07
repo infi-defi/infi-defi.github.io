@@ -19,4 +19,4 @@ Here I'll post a plethora of intresting stuff such as scripts for upcoming video
 
 ### Contact me
 
-If you wanna get in touch you can shoot me an [email](mailto:iminfdev@gmail.com) or join our [discord server](https://discord.gg/un7CqBcZga).  
+If you wanna get in touch you can shoot me an [email](mailto:infdv.me@gmail.com) or join our [discord server](https://discord.gg/un7CqBcZga).  
