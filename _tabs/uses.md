@@ -33,4 +33,4 @@ order: 5
 - [Razer Blackshark V2](https://www.skroutz.gr/s/24259515/Razer-BlackShark-V2-Over-Ear-Gaming-Headset-me-syndesi-USB-3-5mm.html): headphones
 - [Savio Tempest RX](https://www.skroutz.gr/s/23880545/Savio-Tempest-RX-Gaming-Michaniko-Pliktrologio-Tenkeyless-me-Outemu-Blue-diakoptes-kai-Fotizomena-pliktra-Agliko-US.html): keyboard
   - Outemu Blue switches.
-- [LG UltraGear 27GR75Q-B](https://www.skroutz.gr/s/42623796/LG-UltraGear-27GR75Q-B-IPS-HDR-Gaming-Monitor-27-QHD-2560x1440-165Hz-me-CHrono-Apokrisis-1ms-GTG.html)
+- [LG UltraGear 27GR75Q-B](https://www.skroutz.gr/s/42623796/LG-UltraGear-27GR75Q-B-IPS-HDR-Gaming-Monitor-27-QHD-2560x1440-165Hz-me-CHrono-Apokrisis-1ms-GTG.html): monitor

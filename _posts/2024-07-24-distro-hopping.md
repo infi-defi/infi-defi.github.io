@@ -1,7 +1,7 @@
 ---
 title: Distro hopping
 author: infdv
-date: 2024-06-14 00:26:00 +0300
+date: 2024-07-24 00:26:00 +0300
 categories: [Update,Linux]
 tags: [writing]
 render_with_liquid: false
