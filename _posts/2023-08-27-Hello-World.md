@@ -1,7 +1,7 @@
 ---
 title: Hello World
 author: infdv
-date: 2023-08-27 14:10:00 +0800
+date: 2023-08-27 14:10:00 +0300
 categories: [Update]
 tags: [writing]
 render_with_liquid: false

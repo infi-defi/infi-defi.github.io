@@ -1,7 +1,7 @@
 ---
 title: Website Update
 author: infdv
-date: 2023-08-30 14:10:00 +0800
+date: 2023-08-30 14:10:00 +0300
 categories: [Update,Website]
 tags: [writing]
 render_with_liquid: false

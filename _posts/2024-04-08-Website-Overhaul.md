@@ -1,7 +1,7 @@
 ---
 title: Website Overhaul
 author: infdv
-date: 2024-04-08 00:59:00 +0800
+date: 2024-04-08 00:59:00 +0300
 categories: [Update,Website]
 tags: [writing]
 render_with_liquid: false

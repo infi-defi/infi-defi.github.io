@@ -1,7 +1,7 @@
 ---
 title: The Organized Chaos Jam experience
 author: infdv
-date: 2024-04-19 23:54:00 +0800
+date: 2024-04-19 23:54:00 +0300
 categories: [Progress,Organized Chaos Jam]
 tags: [writing]
 render_with_liquid: false
