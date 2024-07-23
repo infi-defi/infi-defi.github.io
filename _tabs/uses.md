@@ -7,14 +7,13 @@ order: 5
 Ό,τι hardware/software χρησιμοποιώ αυτή την στιγμή.
 
 ## Neofetch:
-- OS: Kubuntu 24.04 LTS x86_64 
-- Kernel: 6.8.0-31-generic 
-- Shell: bash 5.2.21 
-- DE: Plasma 5.27.11 
-- WM: KWin 
-- Theme: [Plasma], Breeze [GTK2/3] 
-- Icons: [Plasma], breeze-dark [GTK2/3] 
-- Terminal: konsole 
+- OS: Linux Mint 21.3 x86_64
+- Kernel: Linux Mint 21.3 x86_64
+- Shell: zsh 5.8.1
+- WM: i3
+- Theme: Mint-Y-Dark-Blue [GTK3]
+- Icons: Mint-Y-Blue [GTK3] 
+- Terminal: gnome-terminal
 - CPU: AMD Ryzen 5 2600
 - GPU: NVIDIA GeForce GTX 1660 SUPER 
 - Memory: 16Gb
@@ -34,3 +33,4 @@ order: 5
 - [Razer Blackshark V2](https://www.skroutz.gr/s/24259515/Razer-BlackShark-V2-Over-Ear-Gaming-Headset-me-syndesi-USB-3-5mm.html): headphones
 - [Savio Tempest RX](https://www.skroutz.gr/s/23880545/Savio-Tempest-RX-Gaming-Michaniko-Pliktrologio-Tenkeyless-me-Outemu-Blue-diakoptes-kai-Fotizomena-pliktra-Agliko-US.html): keyboard
   - Outemu Blue switches.
+- [LG UltraGear 27GR75Q-B](https://www.skroutz.gr/s/42623796/LG-UltraGear-27GR75Q-B-IPS-HDR-Gaming-Monitor-27-QHD-2560x1440-165Hz-me-CHrono-Apokrisis-1ms-GTG.html)
