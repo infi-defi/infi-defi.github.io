@@ -13,8 +13,6 @@ render_with_liquid: false
 {: .prompt-warning }
 <!-- markdownlint-restore -->
 
-{% include embed/youtube.html id='apcslhjCPMU' %}
-
 # Εισαγωγή
 Μετά από τόσο καιρό, επιτέλους, τελείωσα το μοντάζ στο Neon White βίντεο. Εύχομαι να σας άρεσε! Αυτό το άρθρο θα περιέχει διάφορες πληροφορίες για το βίντεο, το script, και άλλα χρήσιμα links και στοιχεία.
 
@@ -25,7 +23,7 @@ render_with_liquid: false
 - [Fist Bump (Yellow's Theme) - Machine Girl](https://www.youtube.com/watch?v=FQbQZpk2yaQ)
 - [Peace of Mind - Machine Girl](https://www.youtube.com/watch?v=qhOLMImZLFg)
 ### "SPEEDRUNNING":
-- Lunar Vibrations - Megan Wofford
+- [Lunar Vibrations - Megan Wofford](https://www.youtube.com/watch?v=SFrLSvvrI_M)
 ### "Ιδού μερικά από τα αγαπημένα μου κομμάτια από το OST":
 - [The World to Come - Machine Girl](https://www.youtube.com/watch?v=2TPfE73W5LE)
 - [The Wicked Heart - Machine Girl](https://www.youtube.com/watch?v=2TPfE73W5LE)
