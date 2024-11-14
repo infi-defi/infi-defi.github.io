@@ -9,6 +9,11 @@
 - type: github
   icon: "fab fa-github"
 
+- type: bluesky
+  icon: "fa-brands fa-bluesky"
+  url: 'https://bsky.app/profile/infdv.bsky.social'
+  noblank: true
+
 - type: discord
   icon: "fa-brands fa-discord"
   url: 'https://discord.gg/un7CqBcZga'

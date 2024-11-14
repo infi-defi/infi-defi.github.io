@@ -8,11 +8,11 @@ order: 5
 
 ## Neofetch:
 - OS: Linux Mint 21.3 x86_64
-- Kernel: Linux Mint 21.3 x86_64
+- Kernel: 5.15.0-122-generic
 - Shell: zsh 5.8.1
-- WM: i3
-- Theme: Mint-Y-Dark-Blue [GTK3]
-- Icons: Mint-Y-Blue [GTK3] 
+- WM: awesome
+- Theme: Mint-Y-Dark-Teal [GTK3]
+- Icons: Yaru-blue-dark [GTK3]
 - Terminal: gnome-terminal
 - CPU: AMD Ryzen 5 2600
 - GPU: NVIDIA GeForce GTX 1660 SUPER 
@@ -24,7 +24,7 @@ order: 5
   - [Betterfox](https://github.com/yokoffing/Betterfox): user.js
 - [VSCodium](https://vscodium.com/): code editor
 - [OBS Studio](https://obsproject.com/): footage & streaming
-- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) & [Kdenlive](https://kdenlive.org/en/): video editors
+- [Kdenlive](https://kdenlive.org/en/): video editors
 - [Krita](https://krita.org/en/): thumbnails & animation
 
 ## Hardware

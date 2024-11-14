@@ -4,17 +4,14 @@ icon: fa-solid fa-user
 order: 6
 ---
 
-Ello, I am certified internet funnyman Infdv but you can call me SA, this is my personal website where I put.... stuff?
-
-## More Information
-
-Here I'll post a plethora of intresting stuff such as scripts for upcoming videos, standalone game reviews for games I can't make videos about, news and updates about anything, intresting projects and much much more! Hope you enjoy your stay here, Cya!
+Sup, I'm infdv, this is my website. I talk about random stuff that piques my intrest and occasionally post stuff related to the videos I make.  
 
 ### Links:
 
-- I run a [youtube](https://www.youtube.com/@Infdv) channel where I upload game reviews about games that pique my interest (I also stream there).
-- I also have a [second channel](https://www.youtube.com/@infi-defi) for more casual content.
-- I upload my projects and the code for this website on [github](https://github.com/infi-defi).
+- I run a [youtube](https://www.youtube.com/@Infdv) channel where I upload video essays about topics that intrest me (I also stream there).  
+- I also have a [second channel](https://www.youtube.com/@infi-defi) for more casual content.  
+- Other projects and the code for this website on my [github](https://github.com/infi-defi).  
+- [Bluesky](https://bsky.app/profile/infdv.bsky.social) seems fun until it turns into twitter 2.0 or smth similar. Maybe not who knows  
 - Also here is [twitter (or X...)](https://twitter.com/Infdv_) I don't really use it but oh well.
 
 ### Contact me
