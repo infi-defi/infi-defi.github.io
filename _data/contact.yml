@@ -12,7 +12,6 @@
 - type: bluesky
   icon: "fa-brands fa-bluesky"
   url: 'https://bsky.app/profile/infdv.bsky.social'
-  noblank: true
 
 - type: discord
   icon: "fa-brands fa-discord"
