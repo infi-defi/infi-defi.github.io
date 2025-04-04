@@ -1,5 +1,5 @@
 ---
-title: Neon White Complimentary Post
+title: Neon White Complementary Post
 author: infdv
 date: 2024-10-20 01:36:00 +0300
 categories: [Videos,NeonWhite]
