@@ -1,0 +1,10 @@
+{{ define "main" }}
+<ul class="shoutbox">
+  {{ $index := 0 }}
+  {{ range .Pages.ByPublishDate.Reverse }}
+    {{ $align := cond (modBool $index 2) "left" "right" }}
+    {{ partial "listitem.html" (dict "Page" . "Align" $align) }}
+    {{ $index = add $index 1 }}
+  {{ end }}
+</ul>
+{{ end }}

@@ -1,0 +1,14 @@
+{{ $page := .Page }}
+{{ $align := .Align }}
+<li class="message {{ $align }}">
+  <div class="bubble">
+    {{ if $page.Summary }}
+      <p>{{ $page.Summary }}</p>
+    {{ else }}
+      <p>{{ $page.Content }}</p>
+    {{ end }}
+    {{ if $page.PublishDate }}
+      <span class="date">{{ $page.PublishDate.Format "January 2, 2006" }}</span>
+    {{ end }}
+  </div>
+</li>

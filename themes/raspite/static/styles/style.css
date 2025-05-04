@@ -1,0 +1,220 @@
+/* Color Palette */
+:root {
+  --background: #1b263b;
+  --navbar: #0d1b2a;
+  --navbar-hover: #1b263b;
+  --left-chat: #415a77;
+  --right-chat: #5a6d8c;
+  --text: #e0e1dd;
+  --link-color: #61dafb;
+}
+
+
+/* base */
+html, body {
+  padding: 0;
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+  background-color: var(--background);
+  color: var(--text);
+}
+
+
+/* link styling */
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover{
+  color: var(--text);
+}
+
+
+/* navigation nar */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: var(--navbar);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.sidebar a {
+  padding: 10px 20px;
+  color: var(--text);
+  font-size: 1.1rem;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.sidebar a:hover {
+  background-color: var(--navbar-hover);
+  border-radius: 5px;
+}
+
+
+/* main content stuff */
+#content {
+  flex: 1;
+  max-width: 1200px;
+  margin: 80px auto 40px auto;
+  background-color: var(--background);
+  color: var(--text);
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+
+
+/* list items */
+.list-item {
+  list-style: none;
+  border: 1px solid var(--text);
+  border-radius: 10px;
+  margin: 10px;
+  padding: 5px;
+}
+
+
+/* shoutbox */
+.shoutbox {
+  list-style: none;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+
+/* chat messages */
+.message {
+  display: flex;
+}
+
+.message.left {
+  justify-content: flex-start;
+}
+
+.message.right {
+  justify-content: flex-end;
+}
+
+.bubble {
+  max-width: 60%;
+  padding: 0.75em 1em;
+  border-radius: 1em;
+  background-color: var(--left-chat);
+  word-wrap: break-word;
+  position: relative;
+}
+
+.message.right .bubble {
+  background-color: var(--right-chat);
+}
+
+.bubble iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  min-width: 100px;
+  border-radius: 0.5em;
+  display: block;
+  height: auto;
+}
+
+
+/* date */
+.date {
+  display: block;
+  font-size: 0.8em;
+  color: var(--text);
+  margin-top: 0.5em;
+  text-align: right;
+}
+
+
+/* post content */
+.post-content {
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+
+/* profile */
+.profile {
+  text-align: center;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+
+/* social links */
+.social-links {
+  margin-bottom: 20px;
+}
+
+.social-links a {
+  margin: 0 10px;
+  color: var(--text);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.social-links a:hover {
+  color: var(--right-chat);
+}
+
+
+/* about me */
+.about-me {
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: var(--navbar);
+  border-radius: 10px;
+  color: var(--text);
+}
+
+
+/* footer */
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  border-top: 1px solid var(--text);
+  color: var(--text);
+  text-align: right;
+  padding: 3px 10px;
+  font-size: 1rem;
+  background-color: var(--background);
+  box-sizing: border-box;
+  z-index: 100;
+}
+
+/* Style for code blocks */
+pre code {
+  display: block;
+  background-color: var(--navbar);
+  color: var(--text);
+  padding: 1rem;
+  border-radius: 12px;
+  font-family: "Fira Code", monospace;
+  font-size: 0.95rem;
+  overflow-x: auto;
+  box-shadow: 0 2px 5px var(--left-chat);
+}
+

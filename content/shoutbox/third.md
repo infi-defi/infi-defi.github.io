@@ -1,0 +1,6 @@
++++
+date = '2025-04-25T04:28:30+03:00'
+title = 'Third'
++++
+
+What you are reading now is basically test messages to see how the shoutbox reacts. I'll probably publish the site before the easter break if I ain't bored lol. I'm also planning to publish this as a stand alone hugo theme called [raspite](https://github.com/infi-defi/raspite), if you are seeing this then you can probably go and check it out in the hyperlink. If you are seeing this and the link is still not working, go yell at me over on discord.
