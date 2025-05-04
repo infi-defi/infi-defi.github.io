@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/shoutbox/fourth/</loc>
+    <lastmod>2025-05-04T19:52:03+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-04T19:52:03+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/shoutbox/</loc>
+    <lastmod>2025-05-04T19:52:03+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/shoutbox/third/</loc>
+    <lastmod>2025-04-25T04:28:30+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/shoutbox/second/</loc>
+    <lastmod>2025-04-25T04:22:29+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/uses/</loc>
+    <lastmod>2025-04-25T04:07:45+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/neon-white/</loc>
+    <lastmod>2025-04-17T21:02:47+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/shoutbox/first/</loc>
+    <lastmod>2025-04-17T15:04:07+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

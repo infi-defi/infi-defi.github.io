@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 May 2025 19:52:03 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fourth</title>
+      <link>http://localhost:1313/shoutbox/fourth/</link>
+      <pubDate>Sun, 04 May 2025 19:52:03 +0300</pubDate>
+      <guid>http://localhost:1313/shoutbox/fourth/</guid>
+      <description>&lt;p&gt;OMFG, finally I managed to finish this theme. So, I can finally start making random posts about whatever I feel like :]&lt;br&gt;&#xA;Anyhow, fishman island arc of one piece is wild. The way Luffy came out of Megalo was raw af. At some point I really need to make a bigger blog post and/or review of one piece.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Third</title>
+      <link>http://localhost:1313/shoutbox/third/</link>
+      <pubDate>Fri, 25 Apr 2025 04:28:30 +0300</pubDate>
+      <guid>http://localhost:1313/shoutbox/third/</guid>
+      <description>&lt;p&gt;What you are reading now is basically test messages to see how the shoutbox reacts. I&amp;rsquo;ll probably publish the site before the easter break if I ain&amp;rsquo;t bored lol. I&amp;rsquo;m also planning to publish this as a stand alone hugo theme called &lt;a href=&#34;https://github.com/infi-defi/raspite&#34;&gt;raspite&lt;/a&gt;, if you are seeing this then you can probably go and check it out in the hyperlink. If you are seeing this and the link is still not working, go yell at me over on discord.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second</title>
+      <link>http://localhost:1313/shoutbox/second/</link>
+      <pubDate>Fri, 25 Apr 2025 04:22:29 +0300</pubDate>
+      <guid>http://localhost:1313/shoutbox/second/</guid>
+      <description>&lt;p&gt;Also, dont worry the posts here are not misaligned or something, I just wanted it to have the feel of a conversation, bassically this is a place where I talk with myself. Kinda weird if you thing about it but oh well. As for the old posts I&amp;rsquo;ve put them on the old site&amp;rsquo;s private github repo, only one that still remains is the &lt;a href=&#34;http://localhost:1313/neon-white&#34;&gt;neon white&lt;/a&gt; one because I felt like it was needed for the neon white video.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Uses</title>
+      <link>http://localhost:1313/uses/</link>
+      <pubDate>Fri, 25 Apr 2025 04:07:45 +0300</pubDate>
+      <guid>http://localhost:1313/uses/</guid>
+      <description>&lt;p&gt;Ό,τι hardware/software χρησιμοποιώ αυτή την στιγμή.&lt;/p&gt;&#xA;&lt;h2 id=&#34;neofetch&#34;&gt;Neofetch:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;OS: Linux Mint&lt;/li&gt;&#xA;&lt;li&gt;Shell: zsh&lt;/li&gt;&#xA;&lt;li&gt;WM: Mutter (stylized to look like a tiling wm)&lt;/li&gt;&#xA;&lt;li&gt;Terminal: kitty&lt;/li&gt;&#xA;&lt;li&gt;CPU: AMD Ryzen 7 7730U with Radeon Graphics&lt;/li&gt;&#xA;&lt;li&gt;GPU: AMD ATI 03:00.0 Barcelo&lt;/li&gt;&#xA;&lt;li&gt;Memory: 16Gb&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;applications&#34;&gt;Applications&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com&#34;&gt;Firefox&lt;/a&gt;: browser&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yokoffing/Betterfox&#34;&gt;Betterfox&lt;/a&gt;: user.js&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://vscodium.com/&#34;&gt;VSCodium&lt;/a&gt;: code editor&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://obsproject.com/&#34;&gt;OBS Studio&lt;/a&gt;: footage &amp;amp; streaming&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://kdenlive.org/en/&#34;&gt;Kdenlive&lt;/a&gt;: video editor&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://krita.org/en/&#34;&gt;Krita&lt;/a&gt;: thumbnails &amp;amp; animations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.skroutz.gr/s/17838116/Tracer-Pyknotiko-Mikrofono-XLR-Studio-Pro-Topothetisi-Shock-Mounted-Clip-On-Fonis.html&#34;&gt;Tracer XLR Sudio Pro&lt;/a&gt;: microphone&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.skroutz.gr/s/32826380/Razer-BlackShark-V2-X-Over-Ear-Gaming-Headset-me-syndesi-3-5mm-Prasino.html&#34;&gt;Razer Blackshark V2&lt;/a&gt;: headphones&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.skroutz.gr/s/23880545/Savio-Tempest-RX-Gaming-Michaniko-Pliktrologio-Tenkeyless-me-Outemu-Blue-diakoptes-kai-Fotizomena-pliktra-Agliko-US.html&#34;&gt;Savio Tempest RX&lt;/a&gt;: keyboard&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Outemu Blue switches.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.skroutz.gr/s/42623796/LG-UltraGear-27GR75Q-B-IPS-HDR-Gaming-Monitor-27-QHD-2560x1440-165Hz-me-CHrono-Apokrisis-1ms-GTG.html&#34;&gt;LG UltraGear 27GR75Q-B&lt;/a&gt;: monitor&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Neon White complementary post</title>
+      <link>http://localhost:1313/neon-white/</link>
+      <pubDate>Thu, 17 Apr 2025 21:02:47 +0300</pubDate>
+      <guid>http://localhost:1313/neon-white/</guid>
+      <description>&lt;h2 id=&#34;εισαγωγή&#34;&gt;Εισαγωγή&lt;/h2&gt;&#xA;&lt;p&gt;Μετά από τόσο καιρό, επιτέλους, τελείωσα το μοντάζ στο Neon White βίντεο. Εύχομαι να σας άρεσε! Αυτό το άρθρο θα περιέχει διάφορες πληροφορίες για το βίντεο, το script, και άλλα χρήσιμα links και στοιχεία.&lt;/p&gt;&#xA;&lt;h2 id=&#34;τραγούδια-που-χρησιμοποιήθηκαν-με-σειρά&#34;&gt;Τραγούδια που χρησιμοποιήθηκαν (με σειρά):&lt;/h2&gt;&#xA;&lt;h3 id=&#34;background-music&#34;&gt;Background music:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9TIseoAZJc4&#34;&gt;Neon Bar - Machine Girl&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FQbQZpk2yaQ&#34;&gt;Fist Bump (Yellow&amp;rsquo;s Theme) - Machine Girl&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qhOLMImZLFg&#34;&gt;Peace of Mind - Machine Girl&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;speedrunning&#34;&gt;&amp;ldquo;SPEEDRUNNING&amp;rdquo;:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=SFrLSvvrI_M&#34;&gt;Lunar Vibrations - Megan Wofford&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;ιδού-μερικά-από-τα-αγαπημένα-μου-κομμάτια-από-το-ost&#34;&gt;&amp;ldquo;Ιδού μερικά από τα αγαπημένα μου κομμάτια από το OST&amp;rdquo;:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2TPfE73W5LE&#34;&gt;The World to Come - Machine Girl&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2TPfE73W5LE&#34;&gt;The Wicked Heart - Machine Girl&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EVfiWU5oAck&#34;&gt;Rigged Game&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;outro&#34;&gt;Outro:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4Ch-T5pLD9o&#34;&gt;First Adventure - ChocoChop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;bonus&#34;&gt;Bonus:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLV-G9rtYnrXzCoaNqY2Jp1wmcIMFJl-hR&#34;&gt;Προσωπικά αγαπημένα τραγούδια από το OST&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;script&#34;&gt;Script:&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;Μάλλον αυτό ήταν, έφυγε 🥲. Έχει περάσει ένας χρόνος από την τελευταία φορά που ανέβασε βίντεο&amp;hellip; &lt;em&gt;sigh&lt;/em&gt; Θα μας λείψεις&amp;hellip; εύχομαι να μας βλέπεις από εκεί που είσαι🫡&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/shoutbox/first/</link>
+      <pubDate>Thu, 17 Apr 2025 15:04:07 +0300</pubDate>
+      <guid>http://localhost:1313/shoutbox/first/</guid>
+      <description>&lt;p&gt;Sup and welcome to this shoutbox thingy. I wanted a place where I can put my thoughts wihtout having the pressure of them being &amp;ldquo;official&amp;rdquo; blog posts or wtv. So I made an entire hugo theme for that exact reason! Overkill? Maybe but who cares.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
