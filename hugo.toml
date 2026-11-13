@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://infdv.me'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'infdv'
 theme = "raspite"
 [caches]
   [caches.images]
